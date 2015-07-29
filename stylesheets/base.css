@@ -193,8 +193,9 @@ section.shadow div#logo_wrap {
 div#logo_wrap {
 	position: relative;
 	text-align: center;
-	width: 98%;
-	margin: 0 auto;
+	width: 33%;
+	height: 185px;
+	margin: 10 auto;
 	display: inline-block;
 	
 }
